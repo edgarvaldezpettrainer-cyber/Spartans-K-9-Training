@@ -57,7 +57,7 @@
 <body>
 
 <header>
-  <h1>Your Spartans-k9</h1>
+  <h1>Spartans-k9</h1>
   <p>What you do (Dog Trainer-K9-specialist )</p>
 </header>
 
@@ -66,12 +66,12 @@
 
   <div class="project">
     <h3>Specialty</h3>
-    <p>Basic Obedience. Behavior Modification.</p>
+    <p>Basic Obedience. Behavior Modification</p>
   </div>
 
   <div class="project">
     <h3>Boarding</h3>
-    <p>Going on a fmily trip. We will make sure your dog is safe, feed, with good manners.</p>
+    <p>" "</p>
   </div>
 
   <button onclick="toggleContact()">Show Contact Info</button>
